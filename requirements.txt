@@ -53,7 +53,7 @@ traitlets==4.3.2
 tweepy==3.6.0
 ua-parser==0.8.0
 unity-lens-photos==1.0
-urllib3==1.22
+urllib3==1.26.5
 Werkzeug==0.14.1
 wxPython==3.0.2.0
 wxPython-common==3.0.2.0
